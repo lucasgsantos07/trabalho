@@ -1,0 +1,26 @@
+.t1{
+    color: rgb(243, 243, 243);
+    background-color: beige;
+    border: 0px solid black;
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    bottom: -18px;
+
+    background-color:rgb(32, 40, 83);
+    text-align:left;
+    font-size: large;
+
+}
+
+.caixa{
+    border: 0px solid black;
+    width: 100%;
+    height: 10%;
+    position:absolute;
+    left: 0px;
+    top:-16px;
+    background-color: rgb(32, 40, 83);
+    text-align:left;
+}
